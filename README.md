@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
+<<<<<<< HEAD
 # note_book
 
 A new Flutter project.
@@ -15,3 +19,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# note_book
+>>>>>>> 81b66d02a65d0ef48ba9699ff04d11e38ac46ba4
