@@ -1,24 +1,29 @@
-<<<<<<< HEAD
-=======
->>>>>>> origin/main
-<<<<<<< HEAD
-# note_book
+# Note Book
 
-A new Flutter project.
+A simple Flutter project for building a note-taking application.  
+This project is created for learning Flutter development and will be expanded with note management features.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Flutter cross-platform project
+- Clean starter structure
+- Ready for future note features such as:
+  - Add notes
+  - Edit notes
+  - Delete notes
+  - Search notes
+  - Database integration
 
-A few resources to get you started if this is your first Flutter project:
+## Requirements
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Before running this project, install:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# note_book
->>>>>>> 81b66d02a65d0ef48ba9699ff04d11e38ac46ba4
+- Flutter SDK
+- Dart SDK
+- Git
+- VS Code or Android Studio
+
+## Clone the Repository
+
+```bash
+git clone https://github.com/Ye89-cpu/note_book.git
